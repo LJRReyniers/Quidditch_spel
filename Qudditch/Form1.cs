@@ -15,7 +15,6 @@ namespace Qudditch
         Player player1;
         Player player2;
         Snitch snitch0;
-        //Game game = new Game();
         int count = 0;
         private int posX1 = 100;
         private int posY1 = 300;
